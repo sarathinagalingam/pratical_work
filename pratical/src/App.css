@@ -1,0 +1,13 @@
+.Container{
+  text-align: center;
+  
+}
+.Header{
+  width:100%;
+  height:55px;
+  background-color: blueviolet;
+}
+.App{
+  width:40%;
+  margin-top: 10px;
+}
